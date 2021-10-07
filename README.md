@@ -2,17 +2,21 @@
 
 <h2 align="center">I'm a Husband, Veteran, and Software Developer 🤓</h2>
 
-### About Me
+<h2 align="center"><a href="https://zacharythedeveloper.com" align="center">zacharythedeveloper.com</a></h2>
 
-- ❤️ Family is everything to me.
-- 💻 Coding is my passion.
-- 👯 I enjoy collaborating with other developers, and working on solo projects.
-### Look into my world:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wrightzacharydev/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ag5rYMVm4Y)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=9zSN9W_0yEE)
+<div align="center">
+  <h3>About Me</h3>
 
+  ❤️ Family is everything to me.<br>
+  💻 Coding is my passion.<br>
+  👯 I enjoy collaborating with other developers, and working on solo projects.
+  ### Look into my world:
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wrightzacharydev/)
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ag5rYMVm4Y)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=9zSN9W_0yEE)
+</div>
 <br />
 
 <h3 align="center">My Current Skillset</h3>
