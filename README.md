@@ -10,7 +10,7 @@
 
   ❤️ Family is everything to me.<br>
   💻 Coding is my passion.<br>
-  👯 I enjoy collaborating with other developers, and working on solo projects.
+  👯 I enjoy collaborating with other developers and working on solo projects.
   ### Look into my world:
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wrightzacharydev/)
