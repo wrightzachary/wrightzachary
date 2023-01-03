@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm a Husband, Veteran, and Software Developer 🤓</h2>
 
-<h2 align="center"><a href="https://zacharythedeveloper.com" align="center">zacharythedeveloper.com</a></h2>
+<!--  <h2 align="center"><a href="https://zacharythedeveloper.com" align="center">zacharythedeveloper.com</a></h2> -->
 
 
 <div align="center">
